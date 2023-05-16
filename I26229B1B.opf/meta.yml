@@ -1,0 +1,18 @@
+id: I26229B1B
+default_language: es
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:38.548445
+last_modified: 2023-01-04 11:27:38.548452
+source_metadata:
+  collections:
+  - Adzom Gyalse Series
+  - Works of Tibetan Masters
+bases:
+  3A40:
+    title: A Concise Explanation of Gaṇacakra
+    base_file: 3A40.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
